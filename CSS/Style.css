@@ -1,0 +1,195 @@
+8/* *{
+    border: 1px solid red;
+   }  */
+
+   
+* {
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+   font-family: "Lugrasimo", cursive;
+
+}
+.navbar{
+   z-index: 5;
+   background: #fff;
+}
+
+.hero{
+    padding-bottom: 300px;
+   }
+.head{
+    position: relative;
+   }
+   .head1{
+    position: absolute;
+    top: -250px;
+    left: 420px;
+
+   }
+   .head2{
+    position: absolute;
+    top: -500px;
+    left: 180px;
+
+   }
+   
+   .head3{
+    position: absolute;
+    top: -450px;
+    left: 50px;
+    font-size: 100px;
+
+}
+
+   .head4{
+    position: absolute;
+    top: -300px;
+    left: 80px;
+
+   }
+   .head5{
+    position: absolute;
+    top: -430px;
+    left: 420px;
+   }
+   
+   .about{
+    background-image: url(../Image/Background/cta-bg.png);
+    height: 600px;
+   }
+
+   .about1{
+    padding-top: 30px;
+    padding-left: 50%;
+    color: white;
+    font-size: 65px;
+    text-align: center;
+   }
+
+   .uni{
+    background-image: url(../Image/Background/counter-bg-1.png);
+    height: 600px;
+   }
+   .count{
+    font-size: 60px;
+   }
+   .parent{
+  position: relative;
+   height: 80px;
+   }
+   .inner{
+  margin-top: -2px;
+   height: 120px;
+   width: 260px;
+    }
+    .inner1{
+       margin-top: -125px;
+     height: 120px;
+      width: 250px;
+       }
+
+       .foot{
+       background-color: rgb(62, 8, 62);
+        }
+ .copy{
+    background-color: yellow;
+     }
+  .ip{
+      
+       font-size: 55px;
+    }
+    .app{
+       height: 50px;
+       width: 120px;
+     }
+     .play{
+        height: 50px;
+        width: 120px;
+      }
+
+      .price-badge{
+         width: 80px;
+         height: 80px;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         outline: 4px solid #fff;
+         color: #fff;
+         border-radius: 2%;
+         background: #13d00d;
+         position: absolute;
+         left: 37%;
+         bottom: 290px;
+      
+     } 
+
+     .price-badge1{
+      width: 80px;
+      height: 80px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      outline: 4px solid #fff;
+      color: #fff;
+      border-radius: 2%;
+      background: #f68b34;
+      position: absolute;
+      left: 37%;
+      bottom: 290px;
+  } 
+  .primary-bg{
+   background: #686ac2;
+}
+#price{
+   background-image: url(../Image/Background/facility-bg.jpg);
+}
+
+  .price-badge2{
+   width: 80px;
+   height: 80px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   outline: 4px solid #fff;
+   color: #fff;
+   border-radius: 2%;
+   background: #e984c4;
+   position: absolute;
+   left: 37%;
+   bottom: 290px;
+} 
+.line {
+   background: #f7444e;
+   width: 145px;
+   margin: 0 auto;
+   height: 4px;
+}
+
+      .abc{
+         background-color: rgb(219, 92, 134);
+       }
+
+      #contact{
+
+         background-image: url(../Image/illustration/contact-bg-1.png);
+         
+      
+       }
+      
+
+   #footer{
+
+   background-color: rgb(75, 14, 131);
+   
+
+ }
+
+  #footer1{
+
+   background-color: yellow;
+   color: rgb(255, 0, 115);
+
+ }
+
+    
